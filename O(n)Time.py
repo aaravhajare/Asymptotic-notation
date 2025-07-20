@@ -5,7 +5,7 @@ def print_n(n):
 
     for i in range(1,n+1):
         iter += 1 
-        print("n.o of iteration = n" , n)
+    print("n.o of iteration = n" , n)
 
 print_n(10)
 print_n(1)
